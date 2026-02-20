@@ -1,0 +1,51 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+  background: #f5f5f5;
+}
+
+header {
+  background: #abb2c5;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 15px;
+}
+
+select, button, input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+#verseContainer {
+  padding: 20px;
+  line-height: 1.8;
+}
+
+.verse {
+  cursor: pointer;
+  padding: 5px;
+}
+
+.verse:hover {
+  background: #ddd;
+}
+
+.selected {
+  background: gold;
+  font-weight: bold;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .controls {
+    flex-direction: column;
+  }
+}

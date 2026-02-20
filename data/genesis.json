@@ -1,0 +1,28 @@
+{
+  "book": "Genesis",
+  "chapters": {
+    "1": {
+      "verses": {
+        "1": "In the beginning God created the heaven and the earth.",
+        "2": "And the earth was without form."
+      }
+    },
+    "2": {
+      "verses": {
+        "1": "manisarmi.",
+        "2": "And the earth was without form."
+      }
+    },
+    "5": {
+      "verses": {
+        "1": "This is the book of the generations of Adam.",
+        "2": "Male and female created he them.",
+        "3": "And Adam lived an hundred and thirty years.",
+        "4": "And the days of Adam after he had begotten Seth.",
+        "5": "And all the days that Adam lived were nine hundred and thirty years.",
+        "6": "And Seth lived an hundred and five years.",
+        "7": "And Seth lived after he begat Enos."
+      }
+    }
+  }
+}
